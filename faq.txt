@@ -1,0 +1,62 @@
+
+Frequently Asked Questions about EGCMU:
+-----------------------------------------------------------------
+
+1. What is EGCMU?
+2. Who wrote EGCMU?
+3. What language was used to write EGCMU?
+4. Where can I get the latest version of EGCMU?
+5. Where can I get the latest version of this FAQ?
+
+-----------------------------------------------------------------
+
+1. What is EGCMU?
+
+EGCMU is an Electronic Gene Creation/Manipulation Utility.
+
+Genes are created from text characters and interpreted as music and images.
+The user then breeds these genes to approach a desired piece of music or image.
+
+
+2. Who wrote EGCMU?
+
+EGCMU was written by Christopher Handy.  
+He can be contacted at this address:
+
+<chandy@cs.siu.edu>
+
+
+3. What language was used to write EGCMU?
+
+EGCMU was written in 80386 assembly language using the MASM32 assembler.
+More information on MASM32 can be found here:
+
+MASM32 Official Homepage
+<http://www.pbq.com.au/home/hutch/masm.htm>
+
+More information on programming in assembly language for Windows can
+be found here:
+
+Iczelion's Win32 Assembly Homepage
+<http://members.nbci.com/winasm/index.html>
+
+
+4. Where can I get the latest version of EGCMU?
+
+The latest version of EGCMU is version 1.0.
+It is available here:
+<http://www.cs.siu.edu/~chandy/>
+
+
+5. Where can I get the latest version of this FAQ?
+
+The latest version of EGCMU FAQ is version 1.0.
+It is available here:
+<http://www.cs.siu.edu/~chandy/>
+
+
+
+-----------------------------------------------------------------
+EGCMU FAQ version 1.0 Copyright (c) 2001 by Christopher Handy
+Last updated 20 Apr 2001
+

@@ -1,0 +1,16 @@
+
+
+;Genes sometimes one character longer than they should be
+(seems to be fixed)
+
+
+
+
+
+mov eax, 0 -- does this work always for 32-bit registers?
+
+------
+
+- add compress/expand pot/char offset options
+- add file support
+- add instrument options

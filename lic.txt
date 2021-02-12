@@ -1,0 +1,21 @@
+ 
+		         EGCMU version 1.0
+
+		------------------------------------
+
+		License for use and distribution
+
+		------------------------------------
+
+EGCMU may be freely distributed, but may not be sold without written permission
+from the author, Christopher Handy.  Christopher Handy can be reached at this
+address: <chandy@cs.siu.edu>
+
+EGCMU may not be reverse engineered, decompiled, or disassembled.
+
+EGCMU is provided on an "as is" basis.  No warranty is expressed or implied.
+
+The author is not liable for any data loss or other damage arising from use
+of EGCMU.
+
+Installing and using EGCMU acknowledges acceptance of these terms.

@@ -1,0 +1,89 @@
+//
+// Symantec ResourceStudio generated header file
+//
+// This file is intended for use with Windows 95
+//
+
+#define IDD_DIALOG1                                     100
+#define IDC_EDIT1                                      3000
+#define IDC_EDIT2                                      3001
+#define IDC_BUTTON1                                    3006
+#define IDC_BUTTON2                                    3007
+#define IDC_BUTTON3                                    3008
+#define IDC_STATIC                                       -1
+#define IDC_CHECK3                                     3011
+#define IDC_CHECK4                                     3012
+#define IDC_EDIT3                                      3002
+#define IDC_EDIT4                                      3003
+#define IDC_EDIT5                                      3004
+#define IDC_EDIT6                                      3005
+#define IDC_CHECK1                                     3009
+#define IDC_CHECK2                                     3010
+#define IDC_BUTTON4                                    3013
+#define IDC_BUTTON5                                    3014
+#define IDC_BUTTON6                                    3015
+#define IDC_BUTTON7                                    3016
+#define IDC_BUTTON8                                    3017
+
+#define IDC_EDIT7                                      3018
+#define IDC_EDIT8                                      3019
+#define IDC_BUTTON9                                    3020
+#define IDC_BUTTON10                                   3021
+#define IDC_BUTTON11                                   3022
+#define IDC_BUTTON12                                   3023
+#define IDC_BUTTON13                                   3024
+#define IDC_BUTTON14                                   3025
+#define IDC_BUTTON15                                   3026
+#define IDC_BUTTON16                                   3027
+#define IDC_CHECK6                                     3029
+#define IDC_BUTTON17                                   3030
+#define IDC_BUTTON18                                   3031
+
+#define IDC_BUTTON20                                   3028
+#define IDC_BUTTON21                                   3033
+#define IDC_BUTTON22                                   3034
+#define IDC_BUTTON23                                   3035
+#define IDC_BUTTON19                                   3032
+#define IDC_BUTTON24                                   3036
+#define IDC_BUTTON25                                   3037
+#define IDC_BUTTON26                                   3038
+#define EB_PARENTA                                     3039
+#define EB_PARENTB                                     3040
+#define CB_PARENTA                                     3041
+#define CB_PARENTB                                     3042
+#define PB_SETPARENTPARENT                             3043
+#define PB_SETPARENTCHILD                              3044
+#define PB_SWAPPARENT                                  3045
+#define PB_SWAPCHILD                                   3046
+#define PB_AEQUBPARENT                                 3047
+#define PBBEQUAPARENT                                  3048
+#define PB_AEQUBCHILD                                  3049
+#define PB_BEQUACHILD                                  3050
+#define PB_PLAYPARENT                                  3051
+#define PB_PAUSEPARENT                                 3052
+#define PB_STOPPARENT                                  3053
+#define PB_REWPARENT                                   3054
+#define PB_FWDPARENT                                   3055
+#define PB_FILEINPARENT                                3056
+#define PB_FILEOUTPARENT                               3057
+#define EB_NUMCHILD                                    3058
+#define EB_TOTCHILD                                    3059
+#define EB_CHILDA                                      3060
+#define EB_CHILDB                                      3061
+#define CB_CHILDA                                      3062
+#define PB_FWDCHILD                                    3063
+#define PB_REWCHILD                                    3064
+#define PB_STOPCHILD                                   3065
+#define PB_PAUSECHILD                                  3066
+#define PB_PLAYCHILD                                   3067
+#define PB_OUTFILECHILD                                3068
+#define PB_NEXTGENE                                    3069
+#define PB_PREVGENE                                    3070
+#define CB_STICKYPLAY                                  3071
+#define PB_NOTEMAP                                     3072
+#define PB_DURMAP                                      3073
+#define PB_ABOUT                                       3074
+#define EB_TOTCHILDA                                   3000
+#define EB_TOTCHILDB                                   3001
+#define EB_NUMCHILDA                                   3002
+#define EB_NUMCHILDB                                   3003
